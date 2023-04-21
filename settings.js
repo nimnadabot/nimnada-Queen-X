@@ -36,7 +36,7 @@ global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\
 global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
 
 // Other
-global.sessionName = 'session'
+global.sessionName = 'ZHhqS3k1ZUI='
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 
